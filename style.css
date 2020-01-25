@@ -29,7 +29,10 @@ body {
 
 @media screen and (max-width: 1282px) {
   .right{
-	position:static;
-	
+	position:static;	
 }
+
+   .nav-link{
+	font-weight:bold;   
+   }
 }
