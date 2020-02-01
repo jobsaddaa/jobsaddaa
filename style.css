@@ -33,3 +33,25 @@ a:hover{
 }
 
 }
+
+
+@media screen and (max-width: 860px) {
+
+.navbar .navbar-brand {
+  font-size: 80px;
+}
+.jobslogo{
+	width:150px;
+	height:150px; 
+}
+
+.navbar .nav-link {
+  font-size: 80px;
+  margin-left: 10px;
+}
+.fa-bars {
+  color: #007bff;
+  font-size: 80px;
+}
+
+}
