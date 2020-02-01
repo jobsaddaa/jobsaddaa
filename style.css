@@ -22,7 +22,7 @@ body {
 }
 
 a:hover{
-  color:#ffffff;
+  font-weight:bold;
 }
 
 @media screen and (min-width: 1282px) {
@@ -35,7 +35,7 @@ a:hover{
 }
 
 
-@media screen and (max-width: 1250px) {
+@media screen and (max-width: 1200px) {
 
 .navbar .navbar-brand {
   font-size: 80px;
@@ -52,6 +52,16 @@ a:hover{
 .fa-bars {
   color: #007bff;
   font-size: 80px;
+}
+
+.navbar-brand{
+	position:relative;
+	right:80px;
+}
+
+.navbar-toggler{
+	position:relative;
+	left:80px;	
 }
 
 }
