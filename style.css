@@ -1,3 +1,4 @@
+
 @import url("https://fonts.googleapis.com/css?family=Titillium+Web");
 * {
   font-family: "Titillium Web", sans-serif;
@@ -9,10 +10,10 @@ body {
   font-size: 40px;
 }
 .navbar .nav-item {
-  padding: 10px 10px;
+  padding: 10px 20px;
 }
 .navbar .nav-link {
-  font-size: 30px;
+  font-size: 35px;
   margin-left: 10px;
 }
 .fa-bars {
@@ -20,19 +21,15 @@ body {
   font-size: 30px;
 }
 
-.right{
-    width: 300px;
+a:hover{
+  color:#ffffff;
+}
+
+@media screen and (min-width: 1282px) {
+
+.navbar-brand{
 	position:relative;
-	bottom:0px;
-	right:100px;
+	right:90px;
 }
 
-@media screen and (max-width: 1282px) {
-  .right{
-	position:static;	
-}
-
-   .nav-link{
-	font-weight:bold;   
-   }
 }
