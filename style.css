@@ -16,6 +16,8 @@ body {
   font-size: 35px;
   margin-left: 10px;
 }
+
+
 .fa-bars {
   color: #007bff;
   font-size: 30px;
@@ -24,6 +26,14 @@ body {
 a:hover{
   font-weight:bold;
 }
+
+.icons{
+	height:100px;
+	width:600px;
+	margin-left:40px;
+	margin-top:15px;
+}
+
 
 .button {
   background-color: #FFFFFF; /* White */
@@ -50,6 +60,37 @@ a:hover{
 
 .button2:hover{
   background-color:#d3d3d3;
+}
+
+.icons:hover{
+	background-color:#2E86C1;
+}
+
+.service-button{
+	width:300px;
+	height:50px;
+}
+
+.fa-youtube,.fa-instagram,.fa-envelope,.fa-linkedin-in {
+	font-size:80px;
+	position:relative;
+	right:120px;
+}
+
+.social{
+	position:relative;
+	bottom:60px;
+	padding-left:20px;
+}
+
+.social-linkedin{
+	position:relative;
+	right:15px;
+}
+
+.social-email{
+	position:relative;
+	right:24px;	
 }
 
 @media screen and (min-width: 1282px) {
@@ -102,6 +143,44 @@ a:hover{
 	margin-left:70px;
 	margin-top:15px;
 }
+
+.icons{
+	height:190px;
+	width:900px;
+	margin-left:45px;
+}
+
+.fa-youtube,.fa-instagram,.fa-envelope,.fa-linkedin-in {
+	font-size:150px;
+	position:relative;
+	right:240px;
+	top:20px;
+}
+
+.social{
+	font-size:90px;
+	font-weight:bold;
+	position:relative;
+	bottom:100px;
+	padding-left:20px;
+}
+
+.social-linkedin{
+    position:relative;
+	left:20px;
+}
+
+.social-instagram{
+	position:relative;
+	left:40px;
+}
+
+.social-youtube{
+	position:relative;
+	left:20px;
+	
+}
+
 }
 
 
