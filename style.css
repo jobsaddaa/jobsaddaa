@@ -165,6 +165,11 @@ a:hover{
 	padding-left:20px;
 }
 
+.social-telegram{
+	font-size:65px;
+	font-weight:bold;
+}
+
 .social-linkedin{
     position:relative;
 	left:20px;
@@ -178,6 +183,20 @@ a:hover{
 .social-youtube{
 	position:relative;
 	left:20px;
+	
+}
+
+.paragraph{
+	font-size:40px;
+}
+
+.service-button{
+	width:480px;
+	height:90px;
+}
+
+.service-button-text{
+     font-size:55px;	
 	
 }
 
