@@ -4,6 +4,10 @@
   font-family: "Titillium Web", sans-serif;
 }
 
+.images{
+	margin-left: 30px;
+}
+
 
 .navbar .navbar-brand {
   font-size: 40px;
@@ -206,6 +210,18 @@ body{
 .fa-youtube,.fa-instagram,.fa-envelope,.fa-linkedin-in {
 	font-size:50px;
 	
+}
+
+img{
+	width:320px;
+}
+
+.images{
+	margin-left:0px;
+}
+
+iframe{
+	width:320px;
 }
 
 /* .navbar-brand{
