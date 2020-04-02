@@ -88,7 +88,7 @@ a:hover{
 
 */
 
-.fa-youtube,.fa-instagram,.fa-envelope,.fa-linkedin-in{
+.fa-youtube,.fa-instagram,.fa-envelope,.fa-linkedin-in,.fa-telegram{
 	font-size:45px;
 	position:relative;
 }
@@ -202,15 +202,15 @@ body{
 	float: right;	
 }
 
-.icons{
+/* .icons{
 	height:100px;
 	width:300px;
 	margin-left: 15px;
 	margin-top: 10px;
 	margin-bottom: 10px;
-} 
+}  */
 
-.fa-youtube,.fa-instagram,.fa-envelope,.fa-linkedin-in {
+.fa-youtube,.fa-instagram,.fa-envelope,.fa-linkedin-in,.fa-telegram {
 	font-size:50px;
 	
 }
@@ -227,83 +227,6 @@ iframe{
 	width:320px;
 }
 
-/* .navbar-brand{
-	position:relative;
-	right:80px;
-} */
-
-/* .navbar-toggler{
-	position:relative;
-	left:80px;	
-} */
-/* 
-.company{
-	font-size: 55px;
-} */
-
-/* .button{
-	font-size: 50px;
-	width: 450px;
-	height: 180px;
-	margin-left:70px;
-	margin-top:15px;
-} */
-
-/* .icons{
-	height:190px;
-	width:900px;
-	margin-left:45px;
-}
-
-.fa-youtube,.fa-instagram,.fa-envelope,.fa-linkedin-in {
-	font-size:150px;
-	position:relative;
-	right:240px;
-	top:20px;
-}
-
-.social{
-	font-size:90px;
-	font-weight:bold;
-	position:relative;
-	bottom:100px;
-	padding-left:20px;
-}
-
-.social-telegram{
-	font-size:65px;
-	font-weight:bold;
-}
-
-.social-linkedin{
-    position:relative;
-	left:20px;
-}
-
-.social-instagram{
-	position:relative;
-	left:40px;
-}
-
-.social-youtube{
-	position:relative;
-	left:20px;
-	
-}
-
-.paragraph{
-	font-size:40px;
-}
-
-.service-button{
-	width:480px;
-	height:90px;
-}
-
-.service-button-text{
-     font-size:55px;	
-	
-} */
 
 }
 
